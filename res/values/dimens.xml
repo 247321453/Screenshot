@@ -1,0 +1,6 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="global_screenshot_bg_padding">20dp</dimen>
+    <dimen name="statuBarHeight">20dp</dimen>
+</resources>
