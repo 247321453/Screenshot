@@ -13,9 +13,7 @@ import android.util.Log;
 import android.view.View;
 import android.view.Window;
 
-/**
- * Created by xf on 2014/9/14.
- */
+
 public class ScreenshotUtils {
 
 	public static Bitmap screenshot(Activity activity, boolean hasstatubar) {
